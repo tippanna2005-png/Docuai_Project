@@ -23,21 +23,6 @@ The goal is to create a single workspace where users can quickly view important 
 | 🎨 Modern Interface       | Clean and simple dashboard experience             |
 | 📱 Responsive UI          | Designed for different screen sizes               |
 
-## 🖼️ Interface Preview
-
-Screenshots of the completed application are included in the repository.
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Document Insights
-
-![Document Insights](screenshots/document-insights.png)
-
-### Document Summary
-
-![Document Summary](screenshots/document-summary.png)
 
 ## 🧾 Information Displayed
 
