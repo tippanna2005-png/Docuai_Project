@@ -33,21 +33,6 @@ The application includes a **DOCUAI Intelligence** dashboard that presents docum
 * Address
 * Document Summary
 
-## 📸 Screenshots
-
-Add your project screenshots to the `screenshots` folder in this repository and display them here.
-
-### 🏠 DOCUAI Dashboard
-
-![DOCUAI Dashboard](screenshots/dashboard.png)
-
-### 🧠 Document Intelligence
-
-![Document Intelligence](screenshots/document-insights.png)
-
-### 📋 Document Summary
-
-![Document Summary](screenshots/document-summary.png)
 
 ## 🛠️ Tech Stack
 
