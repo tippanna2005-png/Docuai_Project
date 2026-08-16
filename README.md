@@ -98,7 +98,9 @@ The development server runs at:
 **Frontend Development Using AI Hackathon 2026**
 
 **Topic:** AI-Powered Personal Document Hub
+
 **Project:** DOCUAI_Project
+
 **Participant:** Tipanna Chalawadi
 
 ## 👩‍💻 Developer
