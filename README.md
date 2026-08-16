@@ -155,7 +155,7 @@ DOCUAI combines a modern web interface with AI-assisted document understanding t
 **Tippanna Chalawadi**
 
 Computer Science and Engineering Student
-Web Development & AI Enthusiast
+Java Developer & AI Enthusiast
 
 ## 📜 License
 
